@@ -1,0 +1,18 @@
+title: 
+  张艺菡
+  <br>
+  Yihan Zhang # your name (or website title) here
+logo: "/images/ProfilePhoto.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Master of City Planning Student in University of Pennsylvania, Public Private Development Concentration
+  <br>
+  宾夕法尼亚大学城市规划研究生在读，研究方向为公私合作开发（PPD）
+  <br><br>
+  Focusing on social and spatial justice, housing, participatory design and social networks, sustainable city
+  <br>
+  关注社会与空间正义，住房问题，参与式设计和社会网络，可持续城市
+  <br><br>
+  <a href="https://www.linkedin.com/in/esther-yihan-zhang/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
