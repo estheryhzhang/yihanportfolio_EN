@@ -54,13 +54,15 @@ In this report, we are using historical bikeshare data from Boston (April 2018) 
 
 ### Design Projects
 
+**Design Portfolio**
+Click [here](/pdf/Portfolio_Yihan Zhang.pdf)
 ------------------------------------------------------------------------
 
 **Form Reformed**
 
 （Collaborator：Shupei Zhang）
 
-「HONG KONG CENTRAL」城市肌理不是一个长久静态的系统，自下而上的力量让它时刻处于动态重塑之中。
+「HONG KONG CENTRAL」The urban pattern is not a statistic system, but a dynamic one with bottom-up modifications.
 
 <img src="images/HongKong.png?raw=true"/>
 
@@ -70,7 +72,7 @@ In this report, we are using historical bikeshare data from Boston (April 2018) 
 
 （Individual Work)
 
-「SHENZHEN」A city of the young. So where are the senior?
+「SHENZHEN」Do not let them live in a heterotopia waiting for death.
 
 <img src="images/aged.png?raw=true"/>
 
@@ -80,13 +82,13 @@ In this report, we are using historical bikeshare data from Boston (April 2018) 
 
 (Collaborator：Yixin Peng)
 
-「SHENZHEN」Borders have no directions, but boundaries do.
+「SHENZHEN」Edges have no directions, but boundaries do.
 
 <img src="images/secondaryboundary.png?raw=true"/>
 
 ------------------------------------------------------------------------
 
-### 翻译文章 Translations
+### Translations
 
 -   [哈佛的城市新观察：重构"城市形式"](https://mp.weixin.qq.com/s/ugdZ8itJMiBBFNZE_lRk-w)
 -   [桑内特的"开放城市"究竟有哪些新意思？](https://mp.weixin.qq.com/s/Hi96n4R5LImFoDiMY7vPFw)
