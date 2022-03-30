@@ -60,27 +60,27 @@ In this report, we are using historical bikeshare data from Boston (April 2018) 
 
 （Collaborator：Shupei Zhang）
 
-「香港中环」城市肌理不是一个长久静态的系统，自下而上的力量让它时刻处于动态重塑之中。
+「HONG KONG CENTRAL」城市肌理不是一个长久静态的系统，自下而上的力量让它时刻处于动态重塑之中。
 
 <img src="images/HongKong.png?raw=true"/>
 
 ------------------------------------------------------------------------
 
-**青老共生 Age Remixed**
+**Age Remixed**
 
 （Individual Work)
 
-「深圳」一座属于年轻人的城市，那老人们去了哪里呢？
+「SHENZHEN」A city of the young. So where are the senior?
 
 <img src="images/aged.png?raw=true"/>
 
 ------------------------------------------------------------------------
 
-**边界重生 Boundary Revitalized**
+**Boundary Revitalized**
 
-(合作者：Yixin Peng)
+(Collaborator：Yixin Peng)
 
-「深圳二线关」边缘没有方向，但边界有。
+「SHENZHEN」Borders have no directions, but boundaries do.
 
 <img src="images/secondaryboundary.png?raw=true"/>
 
