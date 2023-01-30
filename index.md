@@ -78,7 +78,7 @@ COVID-19 Rent Relief Program.
 
 **Design Portfolio**
 Click [here](/pdf/Portfolio_Yihan Zhang.pdf)
-------------------------------------------------------------------------
+---
 
 **Form Reformed**
 
@@ -88,7 +88,7 @@ Click [here](/pdf/Portfolio_Yihan Zhang.pdf)
 
 <img src="images/HongKong.png?raw=true"/>
 
-------------------------------------------------------------------------
+---
 
 **Age Remixed**
 
@@ -98,7 +98,7 @@ Click [here](/pdf/Portfolio_Yihan Zhang.pdf)
 
 <img src="images/aged.png?raw=true"/>
 
-------------------------------------------------------------------------
+---
 
 **Boundary Revitalized**
 
@@ -108,7 +108,7 @@ Click [here](/pdf/Portfolio_Yihan Zhang.pdf)
 
 <img src="images/secondaryboundary.png?raw=true"/>
 
-------------------------------------------------------------------------
+---
 
 ### Translations
 
@@ -118,7 +118,7 @@ Click [here](/pdf/Portfolio_Yihan Zhang.pdf)
 -   [放逐柯布的奇幻城堡------里卡多·波菲尔与永生纪念碑](https://mp.weixin.qq.com/s/tAjbiltvbIz9Ha265hPlhg)
 -   [乌托邦的幽灵：重新审视后现代](https://mp.weixin.qq.com/s/Ae2WCJfhAm6YijBMqmlfsw)
 
-------------------------------------------------------------------------
+---
 
 <p style="font-size:11px">
 
