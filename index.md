@@ -1,6 +1,7 @@
-### Projects
+### Research Projects
 
 ---
+
 **Geospatial Risk Prediction of Motor Vehicle Theft in Chicago**
 
 （Collaborator：Jessica Greene）
@@ -30,7 +31,7 @@ Amsterdam is one of the earliest and largest market for Airbnb. Though the touri
 
 We are developing an exploratory machine learning model to predict the annual revenue of a new Airbnb listing. The dependent variable Annual revenues are calculated by aggregating the price and occupant time for the whole year.
 
-Our grander goal is to develop a integrated system which not only provide information about the predicted tax revenue, but also feedback and opinions about the new listing from community members. Our prediction about tax revenue and monthly occupancy will be sent to the community members to inform them about the activities and amenities that can be supported by the economic gains. Being fully informed about the pros and cons, they will report their opinions back to the government. Ideally, their opinions will be taken into consideration in the decision making process. But since we don’t have actual survey data from the community, this report will only focus on the algorithm of annual revenue prediction.
+Our grander goal is to develop a integrated system which not only provide information about the predicted tax revenue, but also feedback and opinions about the new listing from community members. Our prediction about tax revenue and monthly occupancy will be sent to the community members to inform them about the activities and amenities that can be supported by the economic gains. Being fully informed about the pros and cons, they will report their opinions back to the government. Ideally, their opinions will be taken into consideration in the decision making process. But since we don't have actual survey data from the community, this report will only focus on the algorithm of annual revenue prediction.
 
 <img src="images/amsterdam.png?raw=true"/>
 
@@ -54,21 +55,18 @@ In this report, we are using historical bikeshare data from Boston (April 2018) 
 
 **California's Covid-19 Rent Relief Program Analysis of Application, as of April 24, 2022**
 
-Research Brief | July 2022 | Housing Initiative at Penn
+Research Brief \| July 2022 \| Housing Initiative at Penn
 
 (Katharine Nelson, Cypress Marrs, Yihan Zhang)
 
 [Click to see the full report](https://www.housinginitiative.org/californiarsquos-covid-19-rent-relief-program-july-2022-landing-page.html)
 
-The federal government allocated nearly $50 billion to rent relief programs throughout the United States through the Treasury Department’s Emergency Rental Assistance (ERA) program. In this report, we provide
-an overview of the renters who applied to California’s COVID-19 Rent Relief Program, and a snapshot of
-the status of those applications as of April 24, 2022. 
+The federal government allocated nearly \$50 billion to rent relief programs throughout the United States through the Treasury Department's Emergency Rental Assistance (ERA) program. In this report, we provide an overview of the renters who applied to California's COVID-19 Rent Relief Program, and a snapshot of the status of those applications as of April 24, 2022.
 
-Key findings in the reports are:
-1. One out of every ten renter households in California applied for rent relief through the California
-COVID-19 Rent Relief Program. 
-2. Most rent relief applications came from populous counties in Southern California and the Bay Area. These are all areas with moderate or high eviction risk.
-3. Internet access and proof of tenancy documentation (e.g., a current rental lease) were critical barriers to participation in the rental assistance program. 
+Key findings in the reports are: 
+1. One out of every ten renter households in California applied for rent relief through the California COVID-19 Rent Relief Program. 
+2. Most rent relief applications came from populous counties in Southern California and the Bay Area. These are all areas with moderate or high eviction risk. 
+3. Internet access and proof of tenancy documentation (e.g., a current rental lease) were critical barriers to participation in the rental assistance program.
 
 <img src="images/ca_ERA.png?raw=true"/>
 
@@ -76,8 +74,8 @@ COVID-19 Rent Relief Program.
 
 ### Design Projects
 
-**Design Portfolio**
-Click [here](/pdf/Portfolio_Yihan Zhang.pdf)
+**Design Portfolio** Click [here](/pdf/Portfolio_Yihan%20Zhang.pdf) 
+
 ---
 
 **Form Reformed**
