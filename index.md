@@ -1,4 +1,28 @@
+### Resume
+
+[Resume](/pdf/Resume_Yihan_Zhang.pdf)
+
+
 ### Research Projects
+
+---
+
+**California's Covid-19 Rent Relief Program Analysis of Application, as of April 24, 2022**
+
+Research Brief \| July 2022 \| Housing Initiative at Penn
+
+(Katharine Nelson, Cypress Marrs, Yihan Zhang)
+
+[Click to see the full report](https://www.housinginitiative.org/californiarsquos-covid-19-rent-relief-program-july-2022-landing-page.html)
+
+The federal government allocated nearly \$50 billion to rent relief programs throughout the United States through the Treasury Department's Emergency Rental Assistance (ERA) program. In this report, we provide an overview of the renters who applied to California's COVID-19 Rent Relief Program, and a snapshot of the status of those applications as of April 24, 2022.
+
+Key findings in the reports are: 
+1. One out of every ten renter households in California applied for rent relief through the California COVID-19 Rent Relief Program. 
+2. Most rent relief applications came from populous counties in Southern California and the Bay Area. These are all areas with moderate or high eviction risk. 
+3. Internet access and proof of tenancy documentation (e.g., a current rental lease) were critical barriers to participation in the rental assistance program.
+
+<img src="images/ca_ERA.png?raw=true"/>
 
 ---
 
@@ -51,25 +75,6 @@ Commuting patterns, holidays, weathers and events are some of the relevantly pre
 In this report, we are using historical bikeshare data from Boston (April 2018) to build a prediction model. The main features we took into account are timelags, holiday lags, weather, and spatial features including the location of the station, university areas, and possible hotspots such as parks, waters and parkways.
 
 <img src="images/bikeshare.gif?raw=true"/>
----
-
-**California's Covid-19 Rent Relief Program Analysis of Application, as of April 24, 2022**
-
-Research Brief \| July 2022 \| Housing Initiative at Penn
-
-(Katharine Nelson, Cypress Marrs, Yihan Zhang)
-
-[Click to see the full report](https://www.housinginitiative.org/californiarsquos-covid-19-rent-relief-program-july-2022-landing-page.html)
-
-The federal government allocated nearly \$50 billion to rent relief programs throughout the United States through the Treasury Department's Emergency Rental Assistance (ERA) program. In this report, we provide an overview of the renters who applied to California's COVID-19 Rent Relief Program, and a snapshot of the status of those applications as of April 24, 2022.
-
-Key findings in the reports are: 
-1. One out of every ten renter households in California applied for rent relief through the California COVID-19 Rent Relief Program. 
-2. Most rent relief applications came from populous counties in Southern California and the Bay Area. These are all areas with moderate or high eviction risk. 
-3. Internet access and proof of tenancy documentation (e.g., a current rental lease) were critical barriers to participation in the rental assistance program.
-
-<img src="images/ca_ERA.png?raw=true"/>
-
 ---
 
 ### Design Projects
