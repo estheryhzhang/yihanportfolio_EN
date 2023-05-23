@@ -79,7 +79,7 @@ In this report, we are using historical bikeshare data from Boston (April 2018) 
 
 ### Design Projects
 
-**Design Portfolio** Click [here](/pdf/Portfolio_Yihan Zhang.pdf) 
+**Design Portfolio** Click [here](/pdf/Portfolio_Yihan_Zhang.pdf) 
 
 ---
 
