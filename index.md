@@ -74,7 +74,7 @@ Key findings in the reports are:
 
 ### Design Projects
 
-**Design Portfolio** Click [here](/pdf/Portfolio_Yihan%20Zhang.pdf) 
+**Design Portfolio** Click [here](/pdf/Portfolio_Yihan Zhang.pdf) 
 
 ---
 
